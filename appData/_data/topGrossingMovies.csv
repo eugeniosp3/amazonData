@@ -1,0 +1,26 @@
+product_description,price_dollar,num_reviews,real_price_dollar,file_source,quality,release_year,movie_audience_rating,actors,director,money_made,price_category,money_made_sum
+Harry Potter: The Complete 8-Film Collection [DVD],0.0,85571,178.99,amazon_movies,DVD,2017,TV-PG, Daniel Radcliffe ," Chris Columbus , Alfonso Cuaron , Mike Newell and David Yates",15316353.290000001,above_average,19466477.84
+Harry Potter: The Complete 8-Film Collection [DVD],0.0,85571,178.99,amazon_movies,DVD,2017,TV-PG,Emma Watson ," Chris Columbus , Alfonso Cuaron , Mike Newell and David Yates",15316353.290000001,above_average,15316353.290000001
+Harry Potter: The Complete 8-Film Collection [DVD],0.0,85571,178.99,amazon_movies,DVD,2017,TV-PG,Rupert Grint ," Chris Columbus , Alfonso Cuaron , Mike Newell and David Yates",15316353.290000001,above_average,15316353.290000001
+Joker,0.0,142179,79.95,amazon_movies,Prime Video,2019,R,Robert De Niro , Todd Phillips,11367211.05,below_average,11367211.05
+Joker,0.0,142179,79.95,amazon_movies,Prime Video,2019,R,Zazie Beetz , Todd Phillips,11367211.05,below_average,11367211.05
+Joker,0.0,142179,79.95,amazon_movies,Prime Video,2019,R, Joaquin Phoenix , Todd Phillips,11367211.05,below_average,11367211.05
+Fifty Shades of Grey (Unrated Edition),0.0,70287,79.95,amazon_movies,Prime Video,2015,UNRATED, Dakota Johnson , Sam Taylor-Johnson,5619445.65,below_average,14251407.3
+Fifty Shades of Grey,0.0,70287,79.95,amazon_movies,Prime Video,2015,R, Dakota Johnson , Sam Taylor-Johnson,5619445.65,below_average,14251407.3
+Fifty Shades of Grey,0.0,70287,79.95,amazon_movies,Prime Video,2015,R,Jamie Dornan , Sam Taylor-Johnson,5619445.65,below_average,12896574.600000001
+Fifty Shades of Grey,0.0,70287,79.95,amazon_movies,Prime Video,2015,R,Jennifer Ehle , Sam Taylor-Johnson,5619445.65,below_average,11238891.3
+Fifty Shades of Grey (Unrated Edition),0.0,70287,79.95,amazon_movies,Prime Video,2015,UNRATED,Jennifer Ehle , Sam Taylor-Johnson,5619445.65,below_average,11238891.3
+Fifty Shades of Grey (Unrated Edition),0.0,70287,79.95,amazon_movies,Prime Video,2015,UNRATED,Jamie Dornan , Sam Taylor-Johnson,5619445.65,below_average,12896574.600000001
+It,0.0,62175,79.95,amazon_movies,Prime Video,2017,R,Finn Wolfhard , Andy Muschietti,4970891.25,below_average,5062489.9
+It,0.0,62175,79.95,amazon_movies,Prime Video,2017,R,Jaeden Lieberher , Andy Muschietti,4970891.25,below_average,4970891.25
+It,0.0,62175,79.95,amazon_movies,Prime Video,2017,R, Bill Skarsgård , Andy Muschietti,4970891.25,below_average,4970891.25
+Marvel's Avengers: Infinity War,0.0,57598,79.95,amazon_movies,Prime Video,2018,PG-13, Robert Downey Jr. , Anthony Russo and Joe Russo,4604960.100000001,below_average,4604960.100000001
+Marvel's Avengers: Infinity War,0.0,57598,79.95,amazon_movies,Prime Video,2018,PG-13,Chris Hemsworth , Anthony Russo and Joe Russo,4604960.100000001,below_average,4605110.000000001
+Marvel's Avengers: Infinity War,0.0,57598,79.95,amazon_movies,Prime Video,2018,PG-13,Mark Ruffalo , Anthony Russo and Joe Russo,4604960.100000001,below_average,4924120.500000001
+The Equalizer 2,0.0,56995,79.95,amazon_movies,Prime Video,2018,R, Denzel Washington , Antoine Fuqua,4556750.25,below_average,4864496.58
+The Equalizer 2,0.0,56995,79.95,amazon_movies,Prime Video,2018,R,Pedro Pascal , Antoine Fuqua,4556750.25,below_average,4556750.25
+The Equalizer 2,0.0,56995,79.95,amazon_movies,Prime Video,2018,R,Ashton Sanders , Antoine Fuqua,4556750.25,below_average,4556750.25
+Terminator: Dark Fate,0.0,55078,79.95,amazon_movies,Prime Video,2019,R,Arnold Schwarzenegger , Tim Miller,4403486.100000001,below_average,4564178.9
+Terminator: Dark Fate,0.0,55078,79.95,amazon_movies,Prime Video,2019,R,Mackenzie Davis , Tim Miller,4403486.100000001,below_average,4403486.100000001
+Terminator: Dark Fate,0.0,55078,79.95,amazon_movies,Prime Video,2019,R, Linda Hamilton , Tim Miller,4403486.100000001,below_average,4403486.100000001
+No Time to Die,0.0,70994,59.98,amazon_movies,Prime Video,2021,PG-13, Daniel Craig , Cary Joji Fukunaga,4258220.12,below_average,4258220.12
